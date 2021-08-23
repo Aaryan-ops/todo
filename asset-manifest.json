@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aaryan-ops/todo/static/css/main.0014a754.chunk.css",
+    "main.js": "/Aaryan-ops/todo/static/js/main.1729d6f2.chunk.js",
+    "main.js.map": "/Aaryan-ops/todo/static/js/main.1729d6f2.chunk.js.map",
+    "runtime-main.js": "/Aaryan-ops/todo/static/js/runtime-main.3ae95874.js",
+    "runtime-main.js.map": "/Aaryan-ops/todo/static/js/runtime-main.3ae95874.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/Aaryan-ops/todo/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.c00c4fda.chunk.js": "/Aaryan-ops/todo/static/js/2.c00c4fda.chunk.js",
+    "static/js/2.c00c4fda.chunk.js.map": "/Aaryan-ops/todo/static/js/2.c00c4fda.chunk.js.map",
+    "index.html": "/Aaryan-ops/todo/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/Aaryan-ops/todo/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.0014a754.chunk.css.map": "/Aaryan-ops/todo/static/css/main.0014a754.chunk.css.map",
+    "static/js/2.c00c4fda.chunk.js.LICENSE.txt": "/Aaryan-ops/todo/static/js/2.c00c4fda.chunk.js.LICENSE.txt",
+    "static/media/logo_src.1f4e95f8.png": "/Aaryan-ops/todo/static/media/logo_src.1f4e95f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ae95874.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.c00c4fda.chunk.js",
+    "static/css/main.0014a754.chunk.css",
+    "static/js/main.1729d6f2.chunk.js"
+  ]
+}
